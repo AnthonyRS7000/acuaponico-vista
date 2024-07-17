@@ -1,0 +1,24 @@
+/* src/components/DashboardView.css */
+.dashboard-view {
+    padding: 20px;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    text-align: center;
+  }
+  
+  @media (max-width: 768px) {
+    .card {
+      margin-bottom: 10px;
+    }
+  }
+  

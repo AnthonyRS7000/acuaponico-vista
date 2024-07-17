@@ -1,0 +1,16 @@
+/* src/components/DataView.css */
+.data-view {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
